@@ -5,8 +5,6 @@
 1. Find a classmate to be your partner for this lab.
 2. Sit together.
 
-You'll complete tasks individually, but review each other's work via pull requests (PRs).
-
 ## Set up a fork
 
 1. Create a `GitHub` account.
@@ -16,8 +14,9 @@ You'll complete tasks individually, but review each other's work via pull reques
 
 ## Add a classmate as a collaborator
 
-1. In the repo `Settings` -> `Collaborators` -> `Add people`, add your partner as a collaborator.
-2. Make sure your collaborator has accepted the invitation sent to their email.
+1. In your repo `Settings` -> `Collaborators` -> `Add people`, add your partner as a collaborator.
+2. Your partner should add you as a collaborator in their repo.
+3. Make sure your collaborator has accepted the invitation sent to their email.
 
 ## Protect your `main` branch
 
