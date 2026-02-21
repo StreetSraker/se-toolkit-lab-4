@@ -145,10 +145,8 @@ A client can be authenticated (identity verified) but still lack permission for 
 
 Common `HTTP` status codes related to auth:
 
-| Code  | Name            | Meaning                                                                  |
-| ----- | --------------- | ------------------------------------------------------------------------ |
-| `401` | `Unauthorized`  | The client is not authenticated (missing or invalid API key).            |
-| `403` | `Forbidden`     | The client is authenticated but not allowed to access this resource.     |
+- [`401` (Unauthorized)](./http.md#401-unauthorized) — the client is not authenticated (missing or invalid API key).
+- [`403` (Forbidden)](./http.md#403-forbidden) — the client is authenticated but not allowed to access this resource.
 
 ## Endpoint
 
