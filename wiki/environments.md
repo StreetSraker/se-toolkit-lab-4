@@ -29,7 +29,7 @@ Look at the environment variables available to the `VS Code Terminal`:
 
 ## Common environment variables
 
-These [environment variables](#environment-variables) are available in most [operating systems](./operating-system#what-is-an-operating-system):
+These [environment variables](#environment-variables) are available in most [operating systems](./operating-system.md#what-is-an-operating-system):
 
 - [`PATH`](#path-environment-variable)
 
