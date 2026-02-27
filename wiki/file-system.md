@@ -16,6 +16,7 @@
   - [Home directory (`~`)](#home-directory-)
   - [Parent directory (`..`)](#parent-directory-)
   - [`Desktop` directory](#desktop-directory)
+  - [`<directory-path>`](#directory-path)
   - [`<file-path>`](#file-path)
 
 ## What is a file system
@@ -106,6 +107,10 @@ The `Desktop` directory is the folder that corresponds to the desktop on your sc
 
 `Windows`: `C:\Users\<username>\Desktop`
 `Linux`: `~/Desktop` (see [home directory (`~`)](#home-directory-))
+
+### `<directory-path>`
+
+We use `<directory-path>` in docs to refer to the [path](#path) of a [directory](#directory).
 
 ### `<file-path>`
 
