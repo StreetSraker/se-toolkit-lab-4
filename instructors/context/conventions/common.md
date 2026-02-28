@@ -37,6 +37,8 @@
 
 Write each command for the `VS Code Terminal` in a multi-line code block with the type `terminal`. Always precede with a link to the wiki.
 
+- **Explain intention first.** Before the terminal instruction, add a short sentence explaining what the command does and why the reader is running it. Never present a bare command without context.
+
 From a task file:
 
 ~~~markdown
