@@ -28,3 +28,5 @@ def client(api_base_url: str, api_token: str) -> httpx.Client:
         base_url=api_base_url,
         headers={"Authorization": f"Bearer {api_token}"},
     )
+
+
